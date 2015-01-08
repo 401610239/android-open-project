@@ -490,6 +490,12 @@ Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-de
 项目地址：https://github.com/vinc3m1/RoundedImageView  
 效果图：![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
 
+1. SelectableRoundedImageView  
+ImageView允许四个角的每一个有不同的半径值。也允许椭圆形、圆形的形状或者边  
+项目地址：https://github.com/pungrue26/SelectableRoundedImageView  
+Demo地址：https://play.google.com/store/apps/details?id=com.joooonho  
+效果图：![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
+
 1. ColorArt  
 根据图片的均色设置背景色显示文字和图片，类似itune11中效果  
 项目地址：https://github.com/MichaelEvans/ColorArt  
@@ -579,6 +585,12 @@ APP示例：Android4.1时钟App
 带进度显示的Button  
 项目地址：https://github.com/dmytrodanylyk/circular-progress-button  
 效果图：![Renderings](https://raw.githubusercontent.com/dmytrodanylyk/circular-progress-button/master/screenshots/intro.gif)  
+
+1. WaveView  
+一个波纹效果的 View，可用来坐 ProgressBar  
+项目地址：https://github.com/john990/WaveView  
+Demo地址：https://raw.github.com/john990/WaveView/master/screenshot%26apk/demo.unaligned.apk  
+效果图：![Renderings](https://camo.githubusercontent.com/60722e9d4f2d2daa78a8650cb27a32adea82bdd4/68747470733a2f2f7261772e6769746875622e636f6d2f6a6f686e3939302f57617665566965772f6d61737465722f73637265656e73686f7425323661706b2f73637265656e73686f742e676966)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 #### 八、TextView  
@@ -686,10 +698,16 @@ Demo项目：https://github.com/str4d/android-wizardpager/tree/textfield
 效果图：<img height="400px" src="https://camo.githubusercontent.com/685a1eee3b9b7eb6a0409061031654ea7d6b0b17/68747470733a2f2f6c68352e676f6f676c6575736572636f6e74656e742e636f6d2f2d664944555a3074514373632f554a4e4c6a6e504c5447492f41414141414141416f4f382f784b63654f61746c6a50302f773431332d683638392d6e6f2f322e706e67" />  
 
 1. RippleView  
-一个实现了 Android L上才引入的点击按钮后出现水波纹效果的按钮  
+一个实现了 Android L 上才引入的点击按钮后出现水波纹效果的按钮  
 项目地址：https://github.com/siriscac/RippleView  
 Demo项目：https://github.com/siriscac/RippleView/tree/master/RippleViewExample  
 效果图：![Renderings](https://camo.githubusercontent.com/eec41193900aad4803dcf18bc9915fafa3f7d1cf/68747470733a2f2f7261772e6769746875622e636f6d2f73697269736361632f526970706c65566965772f6d61737465722f53637265656e732f53637265656e2e676966)  
+
+1. RippleEffect  
+一个实现Material Design Ripple效果的库，支持Android API 9+以上版本。  
+项目地址：https://github.com/traex/RippleEffect  
+Demo项目：https://github.com/traex/RippleEffect/tree/master/sample  
+效果图：![Renderings](https://raw.githubusercontent.com/traex/RippleEffect/master/header.png)  
 
 1. Android Floating Label Widgets  
 包含一系列控件，这些控件特点是：有默认值，当值不为空时默认值浮动到上面变为提示  
@@ -702,9 +720,14 @@ EditText 的 Material Design 实现。包含 [Google Material Design Spec](http:
 项目地址：https://github.com/rengwuxian/MaterialEditText  
 
 1. MultiActionTextView  
-可以分别给TextView中的某几个字设置点击事件的TextView。  
+可以分别给TextView中的某几个字设置点击事件的TextView  
 项目地址：https://github.com/ajaysahani/MultiActionTextView  
-效果图：<img height="500px" src="https://camo.githubusercontent.com/1223e37d084e84ec0e22a1b27e7513661d0e1b39/687474703a2f2f692e696d6775722e636f6d2f773934576f53582e706e67" />  
+效果图：![Renderings](https://camo.githubusercontent.com/1223e37d084e84ec0e22a1b27e7513661d0e1b39/687474703a2f2f692e696d6775722e636f6d2f773934576f53582e706e67)  
+
+1. ToggleButton  
+状态切换的 Button，类似 iOS，用 View 实现  
+项目地址：https://github.com/zcweng/ToggleButton  
+效果图：![Renderings](https://github.com/zcweng/ToggleButton/raw/master/ToggleButtonSample/21879.gif)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 1. ExpandableTextView  
@@ -733,7 +756,12 @@ Demo地址：http://cloud.github.com/downloads/chrisjenx/ParallaxScrollView/Para
 支持视差滚动的ScrollView  
 项目地址：https://github.com/ideaismobile/AKParallax-Android  
 Demo地址：https://play.google.com/store/apps/details?id=com.appkraft.parallax_sample  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+
+1. Android-ObservableScrollView   
+监听滚动视图滚动事件的库，帮助与Toolbar的交互动效处理与Material Design的实现   
+项目地址：https://github.com/ksoichiro/Android-ObservableScrollView    
+Demo地址：https://play.google.com/store/apps/details?id=com.github.ksoichiro.android.observablescrollview.samples2  
 
 #### 十、TimeView  
 包括TimePicker、DatePicker、CalendarView、Clock等时间相关控件  
@@ -816,6 +844,12 @@ Demo地址：https://play.google.com/store/apps/details?id=com.supertoastsdemo
 可以在ActionBar的MenuItem上显示一个小角标  
 项目地址：https://github.com/mikepenz/Android-ActionItemBadge  
 效果图：![Renderings](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/master/DEV/screenshot/screenshot1_small.png)  
+
+1. SnackBar  
+Material Design 风格的 Toast，类似 Google inbox 中的提示  
+项目地址：https://github.com/MrEngineer13/SnackBar  
+Demo地址：https://play.google.com/store/apps/details?id=com.mrengineer13.snackbar.sample  
+效果图：![Renderings](https://camo.githubusercontent.com/67a39af16f3d46631567c1f7bd7dcddeb3c4c9e9/687474703a2f2f6d6174657269616c2d64657369676e2e73746f726167652e676f6f676c65617069732e636f6d2f696d616765732f636f6d706f6e656e74732d746f617374732d73706563732d737065635f746f6173745f30335f315f6c617267655f6d6470692e706e67)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 十二、FlipView  
@@ -1102,6 +1136,22 @@ Demo地址：[Download Demo](https://github.com/daimajia/AndroidSwipeLayout/rele
 显示  DialogFragment 时背景模糊效果  
 项目地址：https://github.com/tvbarthel/BlurDialogFragment  
 Demo地址：https://play.google.com/store/apps/details?id=fr.tvbarthel.lib.blurdialogfragment.sample  
+
+1. range-seek-bar  
+随机值选取的 SeekBar  
+项目地址：https://github.com/yahoo/android-range-seek-bar  
+效果图：![Renderings](https://github.com/yahoo/android-range-seek-bar/raw/master/demo_screenshot.png)  
+
+1. MaterialRangeBar  
+可以选择一个范围内的值而不是单个值的 SeekBar，RangeBar 的 Material Design 风格适配  
+项目地址：https://github.com/oli107/material-range-bar  
+效果图：![Renderings](https://github.com/oli107/material-range-bar/raw/master/Screenshots/pin%20expand.gif)  
+
+1. MaterialList  
+Material Design 风格的 CardView  
+项目地址：https://github.com/dexafree/MaterialList  
+Demo地址：https://play.google.com/store/apps/details?id=com.dexafree.materiallistviewexample  
+效果图：![Renderings](https://camo.githubusercontent.com/b71bb064807465b7c9132d7f6072e2064f01fb85/687474703a2f2f692e696d6775722e636f6d2f454e78554741772e706e67)  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a> 
 
 ## 第二部分 工具库  
@@ -1952,6 +2002,10 @@ dagger的intellij插件
 1. 9-Patch-Resizer  
 自动生成 png 及点 9 图片的不同分辨率版本  
 项目地址：https://github.com/redwarp/9-Patch-Resizer  
+
+1. AndroidLocalizationer  
+可用于将项目中的 string 资源自动翻译为其他语言的 Android Studio/IntelliJ IDEA 插件  
+项目地址：https://github.com/westlinkin/AndroidLocalizationer  
 <a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 
 #### 二、开发自测相关  
@@ -2133,7 +2187,11 @@ Google Material Design 规范中的 Icon
 Android 滚动屏幕自动截图 jar 包，支持纵向、横向滚动截屏拼接  
 项目地址：https://github.com/PGSSoft/scrollscreenshot  
 效果图：![Renderings](https://github.com/PGSSoft/scrollscreenshot/raw/master/samplehorizontal.png)  
-<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
+<a href="https://github.com/Trinea/android-open-project#%E7%9B%AE%E5%89%8D%E5%8C%85%E6%8B%AC" title="返回目录" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>   
+
+1. droidicon  
+1600+的海量Icon，包括750+的Material Design icons    
+项目地址：https://github.com/theDazzler/droidicon   
   
 ## 第五部分  
 主要介绍那些乐于分享并且有一些很不错的开源项目的个人和组织。Follow大神，深挖大神的项目和following，你会发现很多。  
